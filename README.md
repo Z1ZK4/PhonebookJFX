@@ -30,3 +30,4 @@ Despite the hurdles, our team was successful in developing a fully functional Ph
 
 ## Conclusion
 This project was a fulfilling learning journey. We learned a lot about problem-solving, effective collaboration, and the practical application of the concepts we learned during our course. We believe that this Phone Book Editor is a robust and user-friendly tool that will help users maintain and manage their contacts efficiently.
+by Kyle Lambert & Rohit Menon
